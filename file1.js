@@ -3,3 +3,5 @@ const add = (a, b) => {
 };
 const result = add(20, 30);
 console.log(result);
+
+module.exports = result;
